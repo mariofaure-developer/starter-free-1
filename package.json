@@ -1,5 +1,5 @@
 {
-  "name": "starter-free",
+  "name": "taxicode-monorepo",
   "private": true,
   "workspaces": [
     "./apps/*",
